@@ -1,0 +1,22 @@
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\HerenciayPolimofísmoWF\bin\Debug\HerenciayPolimofísmoWF.exe.config
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\HerenciayPolimofísmoWF\bin\Debug\HerenciayPolimofísmoWF.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\HerenciayPolimofísmoWF\bin\Debug\HerenciayPolimofísmoWF.pdb
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.csproj.AssemblyReference.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.csproj.SuggestedBindingRedirects.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.Properties.Resources.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.csproj.GenerateResource.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.csproj.CoreCompileInputs.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.pdb
+C:\Users\tonet\Desktop\HerenciayPolimofísmoWF\bin\Debug\HerenciayPolimofísmoWF.exe.config
+C:\Users\tonet\Desktop\HerenciayPolimofísmoWF\bin\Debug\HerenciayPolimofísmoWF.exe
+C:\Users\tonet\Desktop\HerenciayPolimofísmoWF\bin\Debug\HerenciayPolimofísmoWF.pdb
+C:\Users\tonet\Desktop\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.csproj.AssemblyReference.cache
+C:\Users\tonet\Desktop\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\tonet\Desktop\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.Properties.Resources.resources
+C:\Users\tonet\Desktop\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.csproj.GenerateResource.cache
+C:\Users\tonet\Desktop\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.csproj.CoreCompileInputs.cache
+C:\Users\tonet\Desktop\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.exe
+C:\Users\tonet\Desktop\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.pdb
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.Formulario.resources
+C:\Users\tonet\Desktop\HerenciayPolimofísmoWF\obj\Debug\HerenciayPolimofísmoWF.Formulario.resources
